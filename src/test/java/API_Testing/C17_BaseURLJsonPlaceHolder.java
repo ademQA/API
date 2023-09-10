@@ -44,7 +44,7 @@ public class C17_BaseURLJsonPlaceHolder extends baseURL_JSONHolder {
 
         response.then().assertThat()
                 .statusCode(200)
-                .body("body", hasSize(100));
+                .body("tittle", hasSize(100));
 
     }
     @Test

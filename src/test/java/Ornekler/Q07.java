@@ -1,4 +1,4 @@
-package API_Testing;
+package Ornekler;
 
 public class Q07 {
     //   C7_Get_ResponseBodyTesti

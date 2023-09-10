@@ -1,4 +1,4 @@
-package API_Testing;
+package Ornekler;
 
 import io.restassured.response.Response;
 import org.junit.Test;

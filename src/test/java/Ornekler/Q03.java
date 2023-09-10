@@ -1,4 +1,4 @@
-package API_Testing;
+package Ornekler;
 
 public class Q03 {
     //https://restful-booker.herokuapp.com/booking/10 url’ine bir GET request
